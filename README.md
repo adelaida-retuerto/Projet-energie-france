@@ -135,7 +135,7 @@ démographique qui compense les efforts de sobriété.
 
 ### Ce que les données révèlent
 
-La production solaire nationale a augmenté de **+580%**
+La production solaire nationale a augmenté de **+489%**
 entre 2012 et 2023 — de ~450 MW à ~3 100 MW.
 
 | Période | Tendance | Explication |
