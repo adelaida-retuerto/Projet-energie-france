@@ -181,7 +181,7 @@ l'ensoleillement, qui fait la différence.
 🏠 Ménages réduisent consommation -11.2%
    (1.6x plus que les industries)
         ↓
-☀️ France adopte le solaire +580%
+☀️ France adopte le solaire +489%
    (accéléré par la même crise)
         ↓
 📍 Mais de façon très inégale selon les régions
